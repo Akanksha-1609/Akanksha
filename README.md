@@ -1,8 +1,8 @@
 # Akanksha
 # I am a passionate developer
-👩‍💻 Experience in Java programming, Object-Oriented Programming (OOP), and web development technologies like HTML, CSS, and JavaScript. 
-﹆ I enjoy solving complex problems and thrive in collaborative environments where communication is key. 
-🖥️ With a strong foundation in software development, I am always eager to learn new technologies and contribute to innovative projects.
+👩‍💻 Experience in Java programming, Object-Oriented Programming (OOP), and web development technologies like HTML, CSS, and JavaScript. <br/>
+﹆ I enjoy solving complex problems and thrive in collaborative environments where communication is key. <br/>
+🖥️ With a strong foundation in software development, I am always eager to learn new technologies and contribute to innovative projects. <br/>
 
 # TOOLS
 
